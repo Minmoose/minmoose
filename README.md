@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- ⚒️ Developer of FFXIV plugins Brio & XAT
+
 <!--
 **Minmoose/minmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
